@@ -1,0 +1,79 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-crosswalk-webview": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "cordova-plugin-x-toast": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "cordova-plugin-actionsheet": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "pushwoosh-cordova-plugin": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "cordova-plugin-google-analytics": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "cordova-plugin-admobpro": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "cordova-plugin-facebook4": {
+            "APP_ID": "1788474281422657",
+            "APP_NAME": "Fahndo",
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "cordova-plugin-googlemaps": {
+            "API_KEY_FOR_IOS": "AIzaSyAOwh-k7HbPT-QmRmfGk9VdfmF3ZFehOJU",
+            "PACKAGE_NAME": "de.fahndo.ios"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "cordova-plugin-extension": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        },
+        "com.googlemaps.ios": {
+            "PACKAGE_NAME": "de.fahndo.ios"
+        }
+    }
+}
