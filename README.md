@@ -11,7 +11,15 @@ An App for iOS and Android to solve the crime. Created in Ionic v1
 Make sure you have the latest version of Cordova and Ionic:
 
 ```
-sudo npm install -g ionic && sudo npm install ionic
+sudo npm install -g cordova
+sudo npm install -g ionic
+```
+
+Install Generator-M-Ionic:
+
+```
+npm i -g yo gulp bower
+npm i -g generator-m-ionic
 ```
 
 Clone the repository
@@ -49,6 +57,7 @@ ionic serve
 * [Node.js](https://nodejs.org/en/) - To use npm
 * [Cordova](https://cordova.apache.org/) - Needed to build a native App
 * [Ionic](https://ionicframework.com/) - free and open source mobile SDK
+* [Generator-M-Ionic](https://github.com/mwaylabs/generator-m-ionic) - Advanced workflowsfor building Ionic apps
 * [Java SDK](http://www.oracle.com/technetwork/es/java/javase/downloads/jdk7-downloads-1880260.html) - Needed for the Andoid App
 * [Android SDK](http://developer.android.com/sdk/index.html#Other) - To build the Android App
 * [Xcode](https://developer.apple.com/download/) - To build the iOS App
@@ -59,7 +68,6 @@ ionic serve
 * Pushwoosh: App ID and Google Project Number (optional)
 * Admob: Interstitial ID (iOS/Android) and Banner ID (optional)
 * Google Analytics: Mobile Tracking ID (optional)
-* 
 
 ## Backend
 
@@ -71,7 +79,7 @@ Also see the Server Files to run this app: [https://github.com/condacore/fahndo-
 
 * **Marius Bolik** - *Initial work* - [condacore.com](https://condacore.com/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/condacore/fahndo-app/contributors) who participated in this project.
 
 ## License
 
