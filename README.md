@@ -49,7 +49,7 @@ npm install
 Run the app
 
 ```
-ionic serve
+gulp watch
 ```
 
 ## Depencies
